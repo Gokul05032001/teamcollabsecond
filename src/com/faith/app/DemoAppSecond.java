@@ -4,8 +4,19 @@ public class DemoAppSecond {
 
 	public static void main(String[] args) {
 
-		String id="10";
+
+		int id=15;
 		System.out.println("hii geo......"+id);
+
+
+		
+		
+		
+		
+		
+		
+		
+
 	}
 
 }
