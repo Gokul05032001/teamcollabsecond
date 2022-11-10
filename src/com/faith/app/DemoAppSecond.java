@@ -4,8 +4,8 @@ public class DemoAppSecond {
 
 	public static void main(String[] args) {
 
-
-		System.out.println("hii geo......");
+		String id="10";
+		System.out.println("hii geo......"+id);
 	}
 
 }
