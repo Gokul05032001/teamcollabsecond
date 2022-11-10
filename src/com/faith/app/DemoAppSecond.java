@@ -8,6 +8,9 @@ public class DemoAppSecond {
 		int id=15;
 		System.out.println("hii geo......"+id);
 
+		System.out.println("hii");
+		String s="Helloo GEO ";
+		System.out.println(s);
 
 		
 		
